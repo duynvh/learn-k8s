@@ -1,0 +1,1 @@
+kubectl config use-context learnk8s-851a26 
